@@ -20,3 +20,5 @@ scores = [85, 98, 89, 92]
 
 result = combine_lists(ids, names, scores)
 print(result)
+
+s = 12;
