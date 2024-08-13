@@ -9,7 +9,7 @@ def is_prime(n):
 def filter_primes(numbers):
     return list(filter(is_prime, numbers))
 
-# Example usage
+
 numbers = [2, 3, 4, 5, 6, 7, 8, 9, 10, 11, 12, 13, 14, 15, 16, 17]
 prime_numbers = filter_primes(numbers)
 print(prime_numbers)
