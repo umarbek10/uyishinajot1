@@ -1,0 +1,4 @@
+git add .
+git commit -m "koment yozish kk"
+git pull
+git push origin main
